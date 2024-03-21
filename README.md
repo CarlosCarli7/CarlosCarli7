@@ -21,4 +21,4 @@
 
 
 ### Fascinado pela tecnologia, minha paixão é explorá-la através de estudos para compreendê-la completamente.
-### Atualmente cursando Desenvolvimento de sistemas 👨‍💻 
+### Atualmente atuando como desenvolvedor Front-end 👨‍💻 
