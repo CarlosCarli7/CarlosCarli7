@@ -7,7 +7,7 @@
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosCarli7&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanypE&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCarli7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso no dia a dia
 
