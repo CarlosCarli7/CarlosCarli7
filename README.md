@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-carli-547067288/)
 
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?CarlosCarli7=anuraghazra&show_icons=true&theme=radical))
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosCarli7&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCarli7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
