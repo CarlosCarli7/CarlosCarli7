@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o Carlos Henrique
 
-Sou estudante de Engenharia de Controle e Automação e apaixonado por tecnologia. Atualmente, desenvolvo projetos pessoais como Front-End Developer e estou me aprofundando nas stacks **React**, **Tailwind CSS**, **JavaScript** e **C++**.
+Sou estudante de Engenharia de Software e apaixonado por tecnologia. Atualmente, desenvolvo projetos pessoais como Front-End Developer e estou me aprofundando nas stacks **React**, **Tailwind CSS**, **JavaScript** e **C++**.
 
 Busco minha primeira oportunidade como desenvolvedor, com o objetivo de aplicar minha base lógica e minha paixão por design funcional em soluções reais.
 
