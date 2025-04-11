@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o Carlos Henrique
 
-Sou estudante de Engenharia de Software e atuo como desenvolvedor **Fullstack** na empresa **Hopper Soluções em Engenharia**, onde participo ativamente de projetos web e mobile, utilizando tecnologias como **React, React Native, Node.js, Django, SQLite, AWS, Docker, Mosquitto** e muito mais.
+Sou estudante de Engenharia de Software e atuo como desenvolvedor **Fullstack** na empresa **Hopper Soluções em Engenharia**, onde participo ativamente de projetos web e mobile, utilizando tecnologias como **React, React Native, Node.js, Django, SQLite, AWS, Docker, Mosquitto, Git** e outras tecnologias.
 
 Tenho paixão por criar soluções funcionais e eficientes — desde a interface até a infraestrutura. Meu objetivo é evoluir constantemente como desenvolvedor, aprendendo novas ferramentas e aprofundando meu domínio das stacks modernas.
 
