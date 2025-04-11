@@ -2,11 +2,11 @@
 
 Sou estudante de Engenharia de Software e atuo como desenvolvedor **Fullstack** na empresa **Hopper Soluções em Engenharia**, onde participo ativamente de projetos web e mobile, utilizando tecnologias como **React, React Native, Node.js, Django, SQLite, AWS, Docker, Mosquitto, Git** e outras tecnologias.
 
-Tenho paixão por criar soluções funcionais e eficientes — desde a interface até a infraestrutura. Meu objetivo é evoluir constantemente como desenvolvedor, aprendendo novas ferramentas e aprofundando meu domínio das stacks modernas.
+Sou apaixonado por criar soluções funcionais e eficientes — desde a interface até a infraestrutura. Meu objetivo é evoluir constantemente como desenvolvedor, aprendendo novas ferramentas e aprofundando meu domínio das stacks modernas.
 
 ---
 
-### 🚀 Tecnologias com as quais trabalho
+### 🚀 Tecnologias do meu dia a dia
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -34,11 +34,6 @@ Tenho paixão por criar soluções funcionais e eficientes — desde a interface
 
 - 📁 [algoritmos-e-estrutura-de-dados-I](https://github.com/CarlosCarli7/algoritmos-e-estrutura-de-dados-I)  
   Exercícios práticos da disciplina de AED I em C++
-
-- 🕹️ [meu-joguinho](https://github.com/CarlosCarli7/meu-joguinho)  
-  Jogo simples feito com foco em aprendizado e diversão
-
-*(em breve adicionarei outros projetos práticos e profissionais com foco web/mobile e backend)*
 
 ---
 
